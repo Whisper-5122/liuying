@@ -81,7 +81,7 @@ Windows 10 / 11 x64 · 当前版本 **0.3.6-beta.1（测试版）** · 安装包
 <details>
 <summary><strong>我不会用 GitHub，应该点哪里？</strong></summary>
 
-直接点击本页最上方「下载 Windows 安装包」即可。如果打开了版本发布页面，在 **Assets / 附件** 中选择 `Liuying-Setup-win64.exe`。`Source code` ZIP 不是安装程序。
+直接点击本页最上方「下载 Windows 安装包」即可。如果打开了版本发布页面，在 **Assets / 附件** 中选择 Windows 安装程序：固定分享页提供 `Liuying-Setup-win64.exe`，0.3.6 版本页提供 `Liuying-Setup-0.3.6-beta.1-win64.exe`。`Source code` ZIP 不是安装程序。
 
 </details>
 
