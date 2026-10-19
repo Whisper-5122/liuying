@@ -2,13 +2,13 @@
   "payload": {
     "app_id": "whisper-liuying",
     "platform": "windows-x64",
-    "version": "0.3.6-beta.1",
-    "notes": "启用应用内在线更新；包含公众号文章与图片帖的图片预览、单张保存和一键保存全部。",
+    "version": "1.0.0",
+    "notes": "留影 V1 正式版：包含 0.3.9 功能，大熊工作台、收藏批量导入、公众号图片与视频号辅助下载；升级保留任务和保存位置。新手图文教程已更新。",
     "asset": {
-      "url": "https://github.com/Whisper-5122/liuying/releases/download/v0.3.6-beta.1/Liuying-Setup-0.3.6-beta.1-win64.exe",
-      "bytes": 84870289,
-      "sha256": "39ebba4c5540456e22e2635076b416ef529cfb2a172f7a490918ac19329e9219"
+      "url": "https://github.com/Whisper-5122/liuying/releases/download/v1.0.0/Liuying-Setup-1.0.0-win64.exe",
+      "bytes": 84892083,
+      "sha256": "fe5ba331e20d1ca4c492d55d65e4aa10d2496e916cf43df98ed3359fac344c73"
     }
   },
-  "signature": "15THwfuKex44nu6lGh0d9oXIIOgU9miH6LF/vmFEo8kpY20jlTt5JYzw2V5Tsvqh+eyjSyp/G4vJFqX26yHmCQ=="
+  "signature": "TSDXIN954B3h9LDfjzs0VMCIZoUWmffBLut9cJG9a4u7bNl9d5M1EsWSe9TopImhdWemcCfb/WwtnPO4ppknCA=="
 }
