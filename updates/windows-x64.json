@@ -2,13 +2,13 @@
   "payload": {
     "app_id": "whisper-liuying",
     "platform": "windows-x64",
-    "version": "1.0.0",
-    "notes": "留影 V1 正式版：包含 0.3.9 功能，大熊工作台、收藏批量导入、公众号图片与视频号辅助下载；升级保留任务和保存位置。新手图文教程已更新。",
+    "version": "1.0.1",
+    "notes": "1.0.1：新增微信4.2原生播放捕获。已验证4.2.0.13真实视频下载与完整解码。首次下载需要本机视频缓存匹配授权；4.2的❤喜欢列表暂不支持，请用播放捕获逐条下载。",
     "asset": {
-      "url": "https://github.com/Whisper-5122/liuying/releases/download/v1.0.0/Liuying-Setup-1.0.0-win64.exe",
-      "bytes": 84892083,
-      "sha256": "fe5ba331e20d1ca4c492d55d65e4aa10d2496e916cf43df98ed3359fac344c73"
+      "url": "https://github.com/Whisper-5122/liuying/releases/download/v1.0.1/Liuying-Setup-1.0.1-win64.exe",
+      "bytes": 84917767,
+      "sha256": "633722d4d84fff999c826df1d8dab3bd5a52b58760e35262bc9fc2d5d1694be6"
     }
   },
-  "signature": "TSDXIN954B3h9LDfjzs0VMCIZoUWmffBLut9cJG9a4u7bNl9d5M1EsWSe9TopImhdWemcCfb/WwtnPO4ppknCA=="
+  "signature": "EOy5Gmrp+JGgTwqOfXZ8pAiWEQNX3r2/Spr46PflGBoCdhjt8jPXp8NqlOFwit6Q4osHgkFCEtbwfyLu9ENVBg=="
 }
